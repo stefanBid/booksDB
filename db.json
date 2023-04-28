@@ -1,0 +1,109 @@
+{
+    "books":[
+        {
+            "isbn":"8804687266",
+            "title":"I figli della mezzanotte",
+            "authors":"Salman Rushdie",
+            "page":644,
+            "nobelAward":false
+        },
+        {
+            "isbn":"8845296830",
+            "title":"Il nome della rosa",
+            "authors":"Umberto Eco",
+            "page":576,
+            "nobelAward":false
+        },
+        {
+            "isbn":"8804734450",
+            "title":"Il vecchio e il mare",
+            "authors":"Ernest Hemingway",
+            "page":204,
+            "nobelAward":true
+        },
+        {
+            "isbn":"8842827746",
+            "title":"La vita, istruzioni per l'uso",
+            "authors":"Georges Perec",
+            "page":408,
+            "nobelAward":false
+        },
+        {
+            "isbn":"880622719X",
+            "title":"L'onore perduto di Katharina Blum",
+            "authors":"Heinrich Böll",
+            "page":143,
+            "nobelAward":false
+        },
+        {
+            "isbn":"8806230786",
+            "title":"Confesso che ho vissuto",
+            "authors":"Pablo Neruda",
+            "page":499,
+            "nobelAward":true
+        },
+        {
+            "isbn":"9788845908",
+            "title":"Lo scherzo",
+            "authors":"Milan Kundera",
+            "page":358,
+            "nobelAward":false
+        },
+        {
+            "isbn":"8817142468",
+            "title":"Una ballata del mare salato",
+            "authors":"Hugo Pratt",
+            "page":228,
+            "nobelAward":false
+        },
+        {
+            "isbn":"881708557X",
+            "title":"Le parole e le cose",
+            "authors":"Michel Foucault",
+            "page":436,
+            "nobelAward":false
+        },
+        {
+            "isbn":"8804668288",
+            "title":"Sulla strada",
+            "authors":"Jack Kerouac",
+            "page":403,
+            "nobelAward":false
+        },
+        {
+            "isbn":"8891227498",
+            "title":"Asterix il gallico",
+            "authors":"René Goscinny, Albert Uderz",
+            "page":48,
+            "nobelAward":false
+        },
+        {
+            "isbn":"8830119008",
+            "title":"Il Signore degli Anelli",
+            "authors":"J.R.R. Tolkien",
+            "page":1296,
+            "nobelAward":false
+        },
+        {
+            "isbn":"8806062476",
+            "title":"Aspettando Godot",
+            "authors":"Samuel Beckett",
+            "page":115,
+            "nobelAward":false
+        },
+        {
+            "isbn":"8807493608",
+            "title":"Sotto il vulcano",
+            "authors":"Malcolm Lowry",
+            "page":144,
+            "nobelAward":false
+        },
+        {
+            "isbn":"2759307107",
+            "title":"Lo straniero",
+            "authors":"Albert Camus",
+            "page":99,
+            "nobelAward":true
+        }
+    ]
+}
